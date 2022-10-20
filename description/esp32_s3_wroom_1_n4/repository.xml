@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository>
+    <Companies>
+        <Company Name="Espressif">
+            <Series>
+                <Series Name="ESP32">
+                    <Lines>
+                        <Line Name="ESP32-S3">
+                            <MCU>
+                                <MCU Name="ESP32-S3-WROOM-1-N4" Package="ESP32-S3-WROOM-1" Core="Xtensa LX7;Xtensa LX7" Frequency="240" Ram="512" IO="36" Flash="4096">
+                                    <Voltage Max="3.0" Min="3.6" />
+                                    <Current Lowest="1.9" Run="400000.0" />
+                                    <Temperature Max="85.0" Min="-40.0" />
+                                    <Peripherals>
+                                        <Peripheral Type="ADC 12-bit" Number="20" />
+                                        <Peripheral Type="I2C" Number="2" />
+                                        <Peripheral Type="I2S" Number="2" />
+                                        <Peripheral Type="SPI" Number="2" />
+                                        <Peripheral Type="UART" Number="3" />
+                                        <Peripheral Type="USB" Number="1" />
+                                        <Peripheral Type="OTP" Number="1" />
+                                        <Peripheral Type="AES" Number="1" />
+                                        <Peripheral Type="SHA" Number="1" />
+                                        <Peripheral Type="RSA" Number="1" />
+                                        <Peripheral Type="ECC" Number="1" />
+                                        <Peripheral Type="RNG" Number="1" />
+                                        <Peripheral Type="HMAC" Number="1" />
+                                    </Peripherals>
+                                </MCU>
+                            </MCU>
+                        </Line>
+                    </Lines>
+                </Series>
+            </Series>
+        </Company>
+    </Companies>
+</Repository>

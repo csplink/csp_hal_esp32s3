@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCU Name="ESP32-S3-WROOM-1-N4" Series="ESP32" Line="ESP32-S3" ClockTree="ESP32-S3" HasPowerPad="true" IoType="" Package="ESP32-S3-WROOM-1" Company="Espressif" Price="0">
+    <HAL Name="csp_hal_esp32s3" Version="latest" />
+    <CompanyUrl>https://www.espressif.com.cn/</CompanyUrl>
+    <RepositoryUrl>https://github.com/xqyjlj/csp_hal_esp32s3</RepositoryUrl>
+    <Introduction>通用型 Wi-Fi + 低功耗蓝牙 MCU 模组</Introduction>
+    <Illustrate>
+        <![CDATA[
+ESP32-S3-WROOM-1 是一款通用型 Wi-Fi + 低功耗蓝牙 MCU 模组，搭载 ESP32-S3 系列芯片。除具有丰富的外设接口外，模组还拥有强大的神经网络运算能力和信号处理能力，适用于 AIoT 领域的多种应用场景，例如唤醒词检测和语音命令识别、人脸检测和识别、智能家居、智能家电、智能控制面板、智能扬声器等。
+        ]]>
+    </Illustrate>
+    <Url>https://www.espressif.com.cn/zh-hans/products/socs/esp32-s3</Url>
+    <DataSheets>
+        <Document Name="Datasheet">
+            <Url>https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_cn.pdf</Url>
+        </Document>
+    </DataSheets>
+    <References>
+        <Document Name="ESP32-S3-WROOM-1 参考设计">
+            <Url>https://www.espressif.com.cn/sites/default/files/documentation/ESP32-S3-WROOM-1_V1.3_Reference_Design_0.zip</Url>
+        </Document>
+        <Document Name="乐鑫模组包装信息">
+            <Url>https://www.espressif.com.cn/sites/default/files/documentation/espressif_module_packaging_information_cn.pdf</Url>
+        </Document>
+        <Document Name="ESP32-S3 硬件设计指南">
+            <Url>https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_hardware_design_guidelines_cn.pdf</Url>
+        </Document>
+        <Document Name="ESP32-S3-WROOM-1 &amp; ESP32-S3-WROOM-1U 技术规格书">
+            <Url>https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_cn.pdf</Url>
+        </Document>
+        <Document Name="乐鑫产测指南">
+            <Url>https://www.espressif.com.cn/sites/default/files/documentation/production_testing_guide__CN.pdf</Url>
+        </Document>
+    </References>
+    <Modules>
+        <Module Name="System Core">
+            <Categories>
+                <Category Name="DMA" />
+                <Category Name="GPIO" />
+                <Category Name="WDG" />
+                <Category Name="Interrupt" />
+                <Category Name="Clock" />
+            </Categories>
+        </Module>
+        <Module Name="Analog">
+            <Categories>
+                <Category Name="ADC1" />
+                <Category Name="ADC2" />
+            </Categories>
+        </Module>
+        <Module Name="Timers">
+            <Categories>
+                <Category Name="RTC" />
+            </Categories>
+        </Module>
+        <Module Name="Connectivity">
+            <Categories>
+                <Category Name="I2C1" />
+                <Category Name="I2C2" />
+                <Category Name="SPI1" />
+                <Category Name="SPI2" />
+                <Category Name="UART1" />
+                <Category Name="UART2" />
+                <Category Name="UART3" />
+                <Category Name="USB" />
+            </Categories>
+        </Module>
+        <Module Name="Multimedia">
+            <Categories>
+                <Category Name="I2S1" />
+                <Category Name="I2S2" />
+            </Categories>
+        </Module>
+        <Module Name="Computing">
+            <Categories>
+                <Category Name="CRC" />
+            </Categories>
+        </Module>
+    </Modules>
+</MCU>
