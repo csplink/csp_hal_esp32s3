@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Pinout>
     <Pins>
-        <Pin Name="GND" Position="1" Type="Power" />
+        <Pin Name="GND-1" Position="1" Type="Power" />
         <Pin Name="3V3" Position="2" Type="Power" />
         <Pin Name="EN" Position="3" Type="EN" />
         <Pin Name="IO4" Position="4" Type="I/O">
@@ -298,6 +298,6 @@
                 <Function Name="ADC1_CH0" />
             </Functions>
         </Pin>
-        <Pin Name="GND" Position="40" Type="Power" />
+        <Pin Name="GND-2" Position="40" Type="Power" />
     </Pins>
 </Pinout>

@@ -5,9 +5,9 @@
             <Series>
                 <Series Name="ESP32">
                     <Lines>
-                        <Line Name="ESP32-S3">
+                        <Line Name="ESP32_S3">
                             <MCU>
-                                <MCU Name="ESP32-S3-WROOM-1-N4" Package="ESP32-S3-WROOM-1" Core="Xtensa LX7;Xtensa LX7" Frequency="240" Ram="512" IO="36" Flash="4096">
+                                <MCU Name="ESP32_S3_WROOM_1_N4" Package="ESP32_S3_WROOM_1" Core="Xtensa LX7;Xtensa LX7" Frequency="240" Ram="512" IO="36" Flash="4096">
                                     <Voltage Max="3.0" Min="3.6" />
                                     <Current Lowest="1.9" Run="400000.0" />
                                     <Temperature Max="85.0" Min="-40.0" />

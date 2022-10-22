@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MCU Name="ESP32-S3-WROOM-1-N4" Series="ESP32" Line="ESP32-S3" ClockTree="ESP32-S3" HasPowerPad="true" IoType="" Package="ESP32-S3-WROOM-1" Company="Espressif" Price="0">
+<MCU Name="ESP32_S3_WROOM_1_N4" Series="ESP32" Line="ESP32_S3" ClockTree="ESP32_S3" HasPowerPad="true" IoType="" Package="Espressif.ESP32_S3_WROOM_1" Company="Espressif" Price="0">
     <HAL Name="csp_hal_esp32s3" Version="latest" />
     <CompanyUrl>https://www.espressif.com.cn/</CompanyUrl>
     <RepositoryUrl>https://github.com/xqyjlj/csp_hal_esp32s3</RepositoryUrl>
