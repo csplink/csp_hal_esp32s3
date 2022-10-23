@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Clock Width="1604.0" Height="903.0">
+    <Rects />
+    <Ellipses>
+        <Ellipse ID="1" X="444.4" Y="104.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="2" X="444.4" Y="154.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="3" X="479.4" Y="664.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="4" X="479.4" Y="689.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="5" X="479.4" Y="714.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="6" X="579.4" Y="759.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="7" X="579.4" Y="805.99" Width="14.0" Height="14.0" />
+        <Ellipse ID="8" X="674.4" Y="59.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="9" X="674.4" Y="109.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="10" X="674.4" Y="279.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="11" X="674.4" Y="304.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="12" X="674.4" Y="329.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="13" X="674.4" Y="354.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="14" X="764.4" Y="174.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="15" X="764.4" Y="220.98999999999998" Width="14.0" Height="14.0" />
+        <Ellipse ID="16" X="829.4" Y="369.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="17" X="829.4" Y="399.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="18" X="889.4" Y="434.2" Width="14.0" Height="14.0" />
+        <Ellipse ID="19" X="889.4" Y="464.2" Width="14.0" Height="14.0" />
+    </Ellipses>
+</Clock>
